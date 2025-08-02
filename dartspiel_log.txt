@@ -1,0 +1,69 @@
+Datum: 2025-08-02 15:29:08
+Modus: 301
+Spieler:
+  Kevin: 0 Punkte
+  NPC: 215 Punkte
+Gewinner: Kevin
+----------------------------------------
+Datum: 2025-08-02 15:33:42
+Modus: 301
+Spieler:
+  kevin: 0 Punkte
+  NPC: 189 Punkte
+Gewinner: kevin
+----------------------------------------
+Datum: 2025-08-02 15:37:06
+Modus: 301
+Spieler:
+  Kevin: 0 Punkte
+  Würfe:
+    Runde 1, Wurf 1: Feld=20, Multi=3, Punkte=60, Rest=241
+    Runde 1, Wurf 2: Feld=20, Multi=3, Punkte=60, Rest=181
+    Runde 1, Wurf 3: Feld=20, Multi=3, Punkte=60, Rest=121
+    Runde 2, Wurf 1: Feld=20, Multi=3, Punkte=60, Rest=61
+    Runde 2, Wurf 2: Feld=20, Multi=3, Punkte=60, Rest=1
+    Runde 2, Wurf 3: Feld=1, Multi=1, Punkte=1, Rest=0
+  NPC: 241 Punkte
+  Würfe:
+    Runde 1, Wurf 1: Feld=4, Multi=3, Punkte=12, Rest=289
+    Runde 1, Wurf 2: Feld=6, Multi=2, Punkte=12, Rest=277
+    Runde 1, Wurf 3: Feld=12, Multi=3, Punkte=36, Rest=241
+Gewinner: Kevin
+----------------------------------------
+Datum: 2025-08-02 15:48:45
+Modus: 301
+Spieler:
+  Kevin: 0 Punkte
+  Würfe:
+    Runde 1, Wurf 1: Feld=12, Multi=2, Punkte=24, Rest=277
+    Runde 1, Wurf 2: Feld=12, Multi=2, Punkte=24, Rest=253
+    Runde 1, Wurf 3: Feld=12, Multi=2, Punkte=24, Rest=229
+    Runde 2, Wurf 1: Feld=ungültig, Multi=1, Punkte=0, Rest=229
+    Runde 2, Wurf 2: Feld=20, Multi=3, Punkte=60, Rest=169
+    Runde 2, Wurf 3: Feld=20, Multi=3, Punkte=60, Rest=109
+    Runde 3, Wurf 1: Feld=20, Multi=3, Punkte=60, Rest=49
+    Runde 3, Wurf 2: Feld=20, Multi=2, Punkte=40, Rest=9
+    Runde 3, Wurf 3: Feld=9, Multi=1, Punkte=9, Rest=0
+  NPC: 208 Punkte
+  Würfe:
+    Runde 1, Wurf 1: Feld=16, Multi=3, Punkte=48, Rest=253
+    Runde 1, Wurf 2: Feld=11, Multi=1, Punkte=11, Rest=242
+    Runde 1, Wurf 3: Feld=7, Multi=1, Punkte=7, Rest=235
+    Runde 2, Wurf 1: Feld=4, Multi=1, Punkte=4, Rest=231
+    Runde 2, Wurf 2: Feld=3, Multi=2, Punkte=6, Rest=225
+    Runde 2, Wurf 3: Feld=17, Multi=1, Punkte=17, Rest=208
+Gewinner: Kevin
+----------------------------------------
+Datum: 2025-08-02 16:00:11
+Modus: 301
+Spieler:
+  Kevin: 0 Punkte
+  Würfe:
+    Runde 1, Wurf 1: Feld=20, Multi=3, Punkte=60, Rest=241
+    Runde 1, Wurf 2: Feld=20, Multi=3, Punkte=60, Rest=181
+    Runde 1, Wurf 3: Feld=20, Multi=3, Punkte=60, Rest=121
+    Runde 2, Wurf 1: Feld=20, Multi=3, Punkte=60, Rest=61
+    Runde 2, Wurf 2: Feld=20, Multi=3, Punkte=60, Rest=1
+    Runde 2, Wurf 3: Feld=1, Multi=1, Punkte=1, Rest=0
+Gewinner: Kevin
+----------------------------------------
